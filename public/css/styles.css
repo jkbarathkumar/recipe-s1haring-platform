@@ -6,7 +6,7 @@
 
 body {
   background-image: url("/img/i-like-food.svg");
-  background-color: rgb(243,243,243);
+  background-color: rgb(245,240,241);
 }
 
 a { color: var(--bs-dark); }
